@@ -1,6 +1,6 @@
 # Simplewebsitelayout
 [HTML/ CSS] Simple website layout
-
+처음 배울때 한 HTML / CSS만 사용한 간단한 레이아웃 
 
 >구현 이미지
 <img src="https://user-images.githubusercontent.com/71969709/118468475-c58b5e80-b73f-11eb-8838-18e01e6e55a0.png" width="50%">
