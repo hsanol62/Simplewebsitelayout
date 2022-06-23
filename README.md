@@ -1,7 +1,7 @@
 # Simplewebsitelayout
 [HTML/ CSS] Simple website layout
-처음 배울때 한 HTML / CSS 를 사용한 간단한 레이아웃 
-[Javascript] 갤러리 부분에 사진열고 닫기, 이전 다음 사진으로 넘어가는 부분
+HTML / CSS 를 사용한 간단한 레이아웃 <br>
+[Javascript] 갤러리 부분 사진열고 닫기, 이전 다음 사진으로 넘어가는 부분
 
 >구현 이미지
 <img src="https://user-images.githubusercontent.com/71969709/118468475-c58b5e80-b73f-11eb-8838-18e01e6e55a0.png" width="50%">
